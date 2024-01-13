@@ -1,0 +1,14 @@
+
+
+
+
+html, body {
+    width: 100%!important;
+    overflow-x: hidden!important;
+background: linear-gradient(to bottom right, #3b265e 39%, #231c36 100%);
+}
+
+.pin {
+  position: fixed !important;
+ z-index: 0;
+}
